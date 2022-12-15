@@ -1,11 +1,11 @@
 _id: env_4ba9fd4ca1954744972e1c279705958d
 type: Environment
 parentId: env_c5e52bff4068a29c8f199c363cf62617da9d4a4d
-modified: 1671108450404
+modified: 1671108952056
 created: 1671108385194
 name: Locally
 data:
-  baseUrl: http://127.0.0.1:8080
+  baseUrl: http://127.0.0.1:7090
 dataPropertyOrder:
   "&":
     - baseUrl

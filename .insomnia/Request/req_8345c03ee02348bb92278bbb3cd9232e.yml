@@ -1,9 +1,9 @@
 _id: req_8345c03ee02348bb92278bbb3cd9232e
 type: Request
 parentId: wrk_99a3e3da7cbe4304a6c78dbac365e437
-modified: 1671108453976
+modified: 1671108975317
 created: 1671108334294
-url: "{{ _.baseUrl }}/testing"
+url: "{{ _.baseUrl }}/admin/functions/FeatureRead"
 name: Info
 description: ""
 method: GET
